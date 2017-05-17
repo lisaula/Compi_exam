@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1494988162 source:/media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/main.cpp
+	<iostream>
+	"InputStream.h"
+	"TokenType.h"
+	"Lexer.h"
+	"Parser.h"
+
+1494986571 source:/media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/Lexer.cpp
+	"Lexer.h"
+
+1494986498 /media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/Lexer.h
+	"InputStream.h"
+	"Token.h"
+	<stdexcept>
+
+1494983161 source:/media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/InputStream.cpp
+	"InputStream.h"
+
+1494982679 /media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/InputStream.h
+	<string.h>
+
+1494984516 /media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/include/TokenType.h
+
+1494984422 /media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/Token.h
+	"TokenType.h"
+
+1494984415 source:/media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/Token.cpp
+	"Token.h"
+
+1494990357 source:/media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/Parser.cpp
+	"Parser.h"
+
+1494988096 /media/isaula/documentos/2017/2do tri/Compi/Compiladores_Exam/Parser.h
+	<iostream>
+	"Lexer.h"
+
